@@ -1,0 +1,26 @@
+/build/
+/bin/
+/.DS_Store
+/target/
+/src/main/resources/rebel.xml
+/store.iml
+/doc/~$*
+
+# idea file
+*.iml
+
+# idea dir
+.idea/
+
+# eclipse file
+.project
+.classpath
+
+#eclipse dir
+/.settings/
+
+#maven dir
+target/
+
+/.project
+/.settings/org.eclipse.wst.common.component
